@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-185VSTQ.sakila"
+  DTS:DTSID="{6A87B640-004A-4A5F-AC26-CDF991929852}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-185VSTQ;User ID=;Initial Catalog=sakila;Provider=MSOLEDBSQL19.1;Persist Security Info=False;Integrated Security=SSPI;Initial File Name=;Use Encryption for Data=Optional;Trust Server Certificate=True;Server SPN=;Authentication=;Access Token=;Host Name In Certificate=;Server Certificate=;Application Name=SSIS-SSIS BDA-{6A87B640-004A-4A5F-AC26-CDF991929852}DESKTOP-185VSTQ.sakila;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
